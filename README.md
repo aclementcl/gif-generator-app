@@ -1,4 +1,4 @@
-# Gif Expert App
+# Gif Generator App
 
 ## 🖼️ Description
 Gif Expert App is a web application built with **React** and **Vite**, enabling users to search and display animated GIFs using the **Giphy API**.
@@ -9,7 +9,7 @@ Gif Expert App is a web application built with **React** and **Vite**, enabling 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/aclement/gif-generator-app.git
-cd gif-expert-app
+cd gif-generator-app
 ```
 
 ### 2️⃣ Create the `.env` File
